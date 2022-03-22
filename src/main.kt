@@ -1,7 +1,7 @@
 fun main(){
 
-name(arrayOf("PEACE","HAPPINESS","HARDWORK"))
-var word =name(arrayOf("nairobi","dodoma","kampala"))
+name(arrayOf("PEACE","DETERMINATION","COMMITMENT"))
+var word =name(arrayOf("lagos","khartoum","tunis"))
     number(arrayOf(10,40,60,80,100,130))
     var names=names(arrayOf("Achievement","Optimistic","Courage"))
     println(names.contentToString())
