@@ -43,7 +43,7 @@ fun word(name: String){
     println(word[3])
 }
 fun statement(name: String,num: Int):String{
-    var statement=("Hi, my name is $name and I am $num years old.")
+    var statement=("Hi, my school is $name and I am $num years old.")
     return statement
 }
 fun length(name: String):Int{
@@ -51,7 +51,7 @@ fun length(name: String):Int{
     return math
 }
 fun info(name: String){
-    if (name=="Tamara")
+    if (name=="Nalenyi")
         println("That's me!")
     else
         println("That's not me!")
